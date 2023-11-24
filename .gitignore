@@ -1,0 +1,11 @@
+# Ignore files without extensions
+*
+!*/
+!*.*
+# IDE flies
+.vscode
+# Text files
+*.txt
+
+#compiled files
+*.out
