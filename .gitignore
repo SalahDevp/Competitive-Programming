@@ -9,3 +9,6 @@
 
 #compiled files
 *.out
+
+#cph extension files
+*.cph
